@@ -1,5 +1,6 @@
 # splitop
 
+![CI](https://github.com/Maxter1476/splitop/actions/workflows/ci.yml/badge.svg)
 **A split-operator Schrödinger solver where every test is a closed-form
 quantum mechanics result.**
 
