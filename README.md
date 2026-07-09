@@ -55,7 +55,3 @@ Regenerate the animation: `python examples/tunneling.py`.
 pytest -q     # 10 analytic-QM validations
 ruff check .
 ```
-
-## License
-
-MIT
